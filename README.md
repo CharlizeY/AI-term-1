@@ -1,2 +1,2 @@
 # AI-term-1
-Coding courseworks for AI at Imperial College London.
+Coding courseworks for Artificial Intelligence at Imperial College London.
