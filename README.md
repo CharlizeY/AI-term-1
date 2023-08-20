@@ -1,2 +1,2 @@
 # AI-term-1
-Coding courseworks for MSc AI, including Computer Vision and Reinforcement Learning exercises.
+Coding coursework for Computer Vision and Reinforcement Learning, from MSc AI.
