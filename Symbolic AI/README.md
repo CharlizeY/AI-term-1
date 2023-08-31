@@ -1,2 +1,2 @@
-# symbolic_cw2
+# Symbolic_CW2: Adversarial Search on Connect Four
 
